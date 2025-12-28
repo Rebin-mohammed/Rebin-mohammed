@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing BTech degree in Computer Science Engineering <br>I am an aspiring Software Developer who is passionate about learning about industry projects <br>Worked on few projects to understand the flow<br>
+I'm currently pursuing BTech degree in Computer Science Engineering <br>I am an aspiring Software Developer who is passionate in learning about industry projects <br>Worked on few projects to understand the flow<br>
 
 
 ## 🌐 Socials:
